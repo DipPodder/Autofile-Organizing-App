@@ -42,5 +42,5 @@ def get_file_path(path, filename):
     return os.path.join(path, filename)
 
 if __name__ == "__main__":
-    path = "F:\\Rag Day"
+    path = "Path"
     organize_files(path)
